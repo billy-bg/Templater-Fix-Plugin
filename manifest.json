@@ -1,0 +1,10 @@
+{
+	"id": "billy-template-plugin",
+	"name": "Billy's Template Plugin",
+	"version": "1.11.1",
+	"minAppVersion": "0.15.0",
+	"description": "My custom plugin that attempts to fix the templater cursor position issues",
+	"author": "Billy Ghaida",
+	"authorUrl": "https://github.com/billy-bg",
+	"isDesktopOnly": false
+}
