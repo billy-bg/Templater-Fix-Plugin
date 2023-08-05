@@ -1,10 +1,10 @@
 {
-	"id": "billy-template-plugin",
-	"name": "Billy's Template Plugin",
-	"version": "1.11.1",
-	"minAppVersion": "0.15.0",
-	"description": "My custom plugin that attempts to fix the templater cursor position issues",
-	"author": "Billy Ghaida",
+	"id": "Templater-fix-Plugin",
+	"name": "Templater Fix Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.0.0",
+	"description": "Quick workaround for Templater plugin in Obsidian where cursor function stops working when inserted into documents with more than 2^16 characters.",
+	"author": "billy-bg",
 	"authorUrl": "https://github.com/billy-bg",
 	"isDesktopOnly": false
 }
