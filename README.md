@@ -1,5 +1,7 @@
 # Templater Fix Plugin
 
+*Note:* This plugin is designed to work **WITH** the [Templater Plugin](https://github.com/billy-bg/Templater-Fix-Plugin) in Obsidian. It does not impact the Templater Plugins functionality in anyway. This plugin simply adds **additional** functionality as a replacement to the cursor function in Templater.
+
 A quick fix/workaround for the following Open Templater Issues:
 - [Templater Cursor Function (tp.file.cursor) stops working after 2^16 (65,536) characters](https://github.com/SilentVoid13/Templater/issues/1143)
 - [tp.file.cursor() puts the cursor at the beginning of the line if there are greater than 65,536 (2^16) characters](https://github.com/SilentVoid13/Templater/issues/674)
